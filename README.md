@@ -1,3 +1,3 @@
 # NFT_Card
 
-<img src="images/QR_code.png" alt="qr-code">
+<img src="images/62ab103d2a249104376525a1.jpg" alt="qr-code">
